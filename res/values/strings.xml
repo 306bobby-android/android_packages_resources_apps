@@ -212,4 +212,7 @@
     <string name="omnijaws_action_open_location_settings">Open location settings</string>
     <string name="omnijaws_action_grant_location_permission">Allow location access</string>
     <string name="omnijaws_action_pick_location">Pick a location manually</string>
+    <string name="omnijaws_error_custom_location_missing">No location selected</string>
+    <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
+    <string name="omnijaws_action_choose_location">Choose location</string>
 </resources>
